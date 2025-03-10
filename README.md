@@ -1,3 +1,3 @@
 # TeamProject
 
-This project is a small educational website for young students to help them with basics of computer science.
+This project is a compact educational website designed to introduce young students to the fundamental concepts of computer science.
